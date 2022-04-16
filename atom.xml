@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://sunweiyi913.github.io/atom.xml" rel="self"/>
+  <link href="https://www.sunweiyi.com/atom.xml" rel="self"/>
   
-  <link href="https://sunweiyi913.github.io/"/>
+  <link href="https://www.sunweiyi.com/"/>
   <updated>2022-04-15T17:11:07.712Z</updated>
-  <id>https://sunweiyi913.github.io/</id>
+  <id>https://www.sunweiyi.com/</id>
   
   <author>
     <name>eason</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://sunweiyi913.github.io/2022/04/16/hello-world/"/>
-    <id>https://sunweiyi913.github.io/2022/04/16/hello-world/</id>
+    <link href="https://www.sunweiyi.com/2022/04/16/hello-world/"/>
+    <id>https://www.sunweiyi.com/2022/04/16/hello-world/</id>
     <published>2022-04-15T17:11:07.711Z</published>
     <updated>2022-04-15T17:11:07.712Z</updated>
     
